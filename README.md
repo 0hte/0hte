@@ -1,4 +1,11 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=1800&pause=800&color=8B5CF6&background=00000000&multiline=true&repeat=false&width=420&height=70&lines=%24+whoami;0hte" alt="$ whoami: 0hte">
+```text
+ ██████╗ ██╗  ██╗████████╗███████╗
+██╔═████╗██║  ██║╚══██╔══╝██╔════╝
+██║██╔██║███████║   ██║   █████╗
+████╔╝██║██╔══██║   ██║   ██╔══╝
+╚██████╔╝██║  ██║   ██║   ███████╗
+ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0hte/0hte/output/snake-dark.svg">
